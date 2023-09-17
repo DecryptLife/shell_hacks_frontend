@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  align-items: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.card-container {
+  display: flex;
+}
+
+.submit-btn {
+  margin-top: 8px;
+  width: inherit;
+}
+
+.row_container {
+  display: flex;
+}
+
+.topic_placeholder {
+  font-size: large;
+}
+
+.grid_container {
+  display: flex;
+}
