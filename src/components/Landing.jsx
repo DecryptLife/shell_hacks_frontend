@@ -110,7 +110,6 @@ function Landing() {
             LET'S GO
           </Button>
           {load === true ? <Loading /> : null}
-          {/* </div> */}
         </div>
       </div>
     </div>
