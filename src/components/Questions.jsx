@@ -25,7 +25,7 @@ function Question() {
 
   return (
     <div>
-      <h1>Take the QUIZ!</h1>
+      <h1>May the "Quiz" Be With You!</h1>
       <QuestionCard questions={questions} />
       {/* <BottomNav/> */}
     </div>
